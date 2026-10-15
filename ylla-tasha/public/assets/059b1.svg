@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 153">
+<circle id="Ellipse 50" cx="50" cy="50" r="50" fill="url(#paint0_radial_0_591)" fill-opacity="0.3"/>
+<circle id="Ellipse 49" cx="50" cy="50" r="35.7143" fill="url(#paint1_radial_0_591)" fill-opacity="0.3"/>
+<circle id="Ellipse 48" cx="50" cy="50" r="21.4286" fill="white"/>
+<path id="Vector" d="M45.4762 55.7143C45.3499 55.7143 45.2288 55.6641 45.1395 55.5748C45.0502 55.4855 45 55.3644 45 55.2381V44.7618C45 44.6791 45.0216 44.5978 45.0626 44.5259C45.1036 44.454 45.1626 44.3941 45.2339 44.352C45.3051 44.3099 45.3861 44.287 45.4688 44.2858C45.5516 44.2845 45.6332 44.3048 45.7057 44.3447L55.2296 49.5828C55.3043 49.6239 55.3665 49.6843 55.4099 49.7577C55.4532 49.8311 55.4761 49.9147 55.4761 50C55.4761 50.0852 55.4532 50.1689 55.4099 50.2422C55.3665 50.3156 55.3043 50.376 55.2296 50.4171L45.7057 55.6552C45.6354 55.6939 45.5565 55.7143 45.4762 55.7143Z" fill="#7BBCB0"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_591" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50 50) rotate(90) scale(50)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<radialGradient id="paint1_radial_0_591" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50 50) rotate(90) scale(35.7143)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+</defs>
+</svg>

@@ -1,0 +1,599 @@
+[
+ {
+  "id": "petra",
+  "name": "Petra",
+  "governorateId": "maan",
+  "category": "Historical Destination",
+  "image": "jordan/petra.jpg",
+  "gallery": [
+   "jordan/petra-wide.jpg",
+   "jordan/petra-hero.jpg",
+   "jordan/wadi-rum.jpg"
+  ],
+  "description": "Walk through the Siq to Jordan's rose-red city and discover Nabataean history.",
+  "history": "Capital of the Nabataean kingdom and a UNESCO World Heritage Site.",
+  "duration": "Full day",
+  "priceJOD": 50,
+  "rating": 4.9,
+  "reviewCount": 320,
+  "bookable": true,
+  "tags": [
+   "history",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "wadi-rum",
+  "name": "Wadi Rum",
+  "governorateId": "aqaba",
+  "category": "Desert Adventure",
+  "image": "jordan/wadi-rum.jpg",
+  "gallery": [
+   "jordan/wadi-rum-2.jpg",
+   "jordan/desert.jpg",
+   "jordan/petra-wide.jpg"
+  ],
+  "description": "Jeep trails, stargazing and Bedouin-hosted camps among monumental sandstone cliffs.",
+  "history": "A protected desert landscape and UNESCO site shaped by Bedouin culture.",
+  "duration": "3–8 hours",
+  "priceJOD": 35,
+  "rating": 4.8,
+  "reviewCount": 280,
+  "bookable": true,
+  "tags": [
+   "adventure",
+   "nature"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "dead-sea",
+  "name": "Dead Sea",
+  "governorateId": "balqa",
+  "category": "Wellness & Relaxation",
+  "image": "jordan/dead-sea.jpg",
+  "gallery": [
+   "jordan/amman-wide.jpg",
+   "jordan/desert.jpg"
+  ],
+  "description": "Float at the lowest point on earth, unwind at the shore and watch the sunset.",
+  "history": "The shoreline lies at the lowest land elevation on Earth.",
+  "duration": "3 hours",
+  "priceJOD": 28,
+  "rating": 4.7,
+  "reviewCount": 210,
+  "bookable": true,
+  "tags": [
+   "wellness",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "amman-citadel",
+  "name": "Amman Citadel & Downtown",
+  "governorateId": "amman",
+  "category": "City Experiences",
+  "image": "jordan/amman.jpg",
+  "gallery": [
+   "jordan/amman-wide.jpg",
+   "jordan/jerash.jpg"
+  ],
+  "description": "Explore hilltop ruins, downtown souqs, contemporary galleries and local kitchens.",
+  "history": "Citadel hill has been settled since the Bronze Age and holds the Umayyad Palace and Temple of Hercules.",
+  "duration": "Half day",
+  "priceJOD": 18,
+  "rating": 4.8,
+  "reviewCount": 190,
+  "bookable": true,
+  "tags": [
+   "history",
+   "food"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "jerash-ruins",
+  "name": "Jerash Roman Ruins",
+  "governorateId": "jerash",
+  "category": "Roman Heritage",
+  "image": "jordan/jerash.jpg",
+  "gallery": [
+   "jordan/petra-wide.jpg",
+   "jordan/amman-wide.jpg"
+  ],
+  "description": "Follow colonnaded streets through one of the world's best-preserved Roman cities.",
+  "history": "A Decapolis city that thrived in the Roman and Byzantine periods.",
+  "duration": "3 hours",
+  "priceJOD": 12,
+  "rating": 4.7,
+  "reviewCount": 175,
+  "bookable": true,
+  "tags": [
+   "history",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "ajloun-castle",
+  "name": "Ajloun Castle & Forest",
+  "governorateId": "ajloun",
+  "category": "Nature & Hiking",
+  "image": "jordan/desert.jpg",
+  "gallery": [
+   "jordan/jerash.jpg",
+   "jordan/wadi-rum.jpg"
+  ],
+  "description": "Green trails, village hospitality and a commanding 12th-century hilltop castle.",
+  "history": "Qal'at ar-Rabad was built in the 1180s by an Ayyubid commander.",
+  "duration": "Half day",
+  "priceJOD": 16,
+  "rating": 4.6,
+  "reviewCount": 120,
+  "bookable": true,
+  "tags": [
+   "nature",
+   "history"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "aqaba-red-sea",
+  "name": "Aqaba Red Sea",
+  "governorateId": "aqaba",
+  "category": "Water Activities",
+  "image": "jordan/wadi-rum-2.jpg",
+  "gallery": [
+   "jordan/wadi-rum.jpg",
+   "jordan/dead-sea.jpg"
+  ],
+  "description": "Red Sea reefs, beach clubs and water adventures beneath warm southern skies.",
+  "history": "Aqaba is Jordan's only coastal city and a port since antiquity.",
+  "duration": "Half day",
+  "priceJOD": 32,
+  "rating": 4.8,
+  "reviewCount": 150,
+  "bookable": true,
+  "tags": [
+   "adventure",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "as-salt",
+  "name": "As-Salt",
+  "governorateId": "balqa",
+  "category": "Culture & Local Food",
+  "image": "jordan/amman-wide.jpg",
+  "gallery": [
+   "jordan/amman.jpg",
+   "jordan/jerash.jpg"
+  ],
+  "description": "Discover golden-stone lanes, heritage houses and generous local tables.",
+  "history": "A UNESCO-listed historic town of Ottoman-era limestone architecture.",
+  "duration": "3 hours",
+  "priceJOD": 14,
+  "rating": 4.6,
+  "reviewCount": 95,
+  "bookable": true,
+  "tags": [
+   "history",
+   "food"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "karak-castle",
+  "name": "Karak Castle",
+  "governorateId": "karak",
+  "category": "Historical Destination",
+  "image": "jordan/amman-wide.jpg",
+  "gallery": [
+   "jordan/petra-wide.jpg"
+  ],
+  "description": "A Crusader fortress above the King's Highway.",
+  "history": "One of the largest Crusader castles in the region.",
+  "duration": "2 hours",
+  "priceJOD": 10,
+  "rating": 4.5,
+  "reviewCount": 80,
+  "bookable": true,
+  "tags": [
+   "history"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "madaba-mosaics",
+  "name": "Madaba Mosaics",
+  "governorateId": "madaba",
+  "category": "Culture",
+  "image": "jordan/amman.jpg",
+  "gallery": [
+   "jordan/amman-wide.jpg"
+  ],
+  "description": "The City of Mosaics and its Byzantine floor maps.",
+  "history": "Madaba's 6th-century mosaic map shows the Holy Land.",
+  "duration": "2 hours",
+  "priceJOD": 8,
+  "rating": 4.6,
+  "reviewCount": 88,
+  "bookable": true,
+  "tags": [
+   "history",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "umm-qais",
+  "name": "Umm Qais",
+  "governorateId": "irbid",
+  "category": "Historical Destination",
+  "image": "jordan/jerash.jpg",
+  "gallery": [
+   "jordan/desert.jpg"
+  ],
+  "description": "Roman ruins with views across the Golan and Sea of Galilee.",
+  "history": "Ancient Gadara, a Decapolis city.",
+  "duration": "2 hours",
+  "priceJOD": 9,
+  "rating": 4.6,
+  "reviewCount": 70,
+  "bookable": true,
+  "tags": [
+   "history",
+   "nature"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "dana-reserve",
+  "name": "Dana Biosphere Reserve",
+  "governorateId": "tafilah",
+  "category": "Nature & Hiking",
+  "image": "jordan/desert.jpg",
+  "gallery": [
+   "jordan/wadi-rum.jpg",
+   "jordan/petra-wide.jpg"
+  ],
+  "description": "Canyon trails and a stone village on the rim of Wadi Dana.",
+  "history": "Jordan's largest nature reserve.",
+  "duration": "5 hours",
+  "priceJOD": 30,
+  "rating": 4.8,
+  "reviewCount": 110,
+  "bookable": true,
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "azraq-wetland",
+  "name": "Azraq Wetland Reserve",
+  "governorateId": "zarqa",
+  "category": "Nature",
+  "image": "jordan/desert.jpg",
+  "gallery": [
+   "jordan/dead-sea.jpg"
+  ],
+  "description": "A desert oasis for migratory birds.",
+  "history": "The oasis is a crossroads of desert and wetland habitats.",
+  "duration": "2 hours",
+  "priceJOD": 5,
+  "rating": 4.3,
+  "reviewCount": 40,
+  "bookable": true,
+  "tags": [
+   "nature",
+   "family"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ },
+ {
+  "id": "umm-al-jimal",
+  "name": "Umm al-Jimal",
+  "governorateId": "mafraq",
+  "category": "Historical Destination",
+  "image": "jordan/desert.jpg",
+  "gallery": [
+   "jordan/jerash.jpg"
+  ],
+  "description": "A black basalt town from the Roman and Byzantine eras.",
+  "history": "Built almost entirely of local basalt.",
+  "duration": "2 hours",
+  "priceJOD": 3,
+  "rating": 4.3,
+  "reviewCount": 35,
+  "bookable": true,
+  "tags": [
+   "history"
+  ],
+  "packages": [
+   {
+    "name": "Standard entry",
+    "addJOD": 0
+   },
+   {
+    "name": "With local guide",
+    "addJOD": 15
+   }
+  ],
+  "officialBookingUrl": null,
+  "hours": "Check the official source before visiting.",
+  "facilities": [
+   "Visitor information",
+   "Parking nearby"
+  ],
+  "accessibility": "Terrain varies; contact the site for step-free access details.",
+  "tips": [
+   "Bring water and sun protection",
+   "Go early to avoid crowds"
+  ]
+ }
+]

@@ -1,0 +1,361 @@
+[
+ {
+  "id": "amman",
+  "name": "Amman",
+  "nameAr": "عمّان",
+  "image": "jordan/amman-wide.jpg",
+  "intro": "Jordan's hilltop capital mixes Roman ruins, downtown souqs, galleries and a lively café culture.",
+  "history": "Built over seven hills, Amman grew from ancient Rabbath-Ammon and a Roman Philadelphia into a modern capital. Its Citadel and Roman Theatre sit above the downtown souqs.",
+  "lat": 31.95,
+  "lng": 35.93,
+  "nearby": [
+   "balqa",
+   "madaba",
+   "jerash",
+   "zarqa"
+  ],
+  "activities": [
+   {
+    "name": "Downtown food walk",
+    "duration": "Half day",
+    "priceJOD": 18
+   },
+   {
+    "name": "Citadel and Roman Theatre visit",
+    "duration": "3 hours",
+    "priceJOD": 8
+   },
+   {
+    "name": "Rainbow Street café evening",
+    "duration": "2 hours",
+    "priceJOD": 12
+   }
+  ],
+  "itinerary": [
+   "Citadel and Roman Theatre",
+   "Downtown souq and local lunch",
+   "Rainbow Street sunset and dinner"
+  ]
+ },
+ {
+  "id": "irbid",
+  "name": "Irbid",
+  "nameAr": "إربد",
+  "image": "jordan/jerash.jpg",
+  "intro": "A university city in the green north, gateway to Umm Qais and its views over the Sea of Galilee and the Golan.",
+  "history": "The Decapolis city of Gadara stood at today's Umm Qais, famed for its Roman theatre of black basalt.",
+  "lat": 32.55,
+  "lng": 35.85,
+  "nearby": [
+   "ajloun",
+   "jerash",
+   "mafraq"
+  ],
+  "activities": [
+   {
+    "name": "Umm Qais ruins walk",
+    "duration": "3 hours",
+    "priceJOD": 6
+   },
+   {
+    "name": "Village lunch tasting",
+    "duration": "2 hours",
+    "priceJOD": 14
+   }
+  ],
+  "itinerary": [
+   "Umm Qais ruins",
+   "Lunch in Irbid old town",
+   "Viewpoint at sunset"
+  ]
+ },
+ {
+  "id": "zarqa",
+  "name": "Zarqa",
+  "nameAr": "الزرقاء",
+  "image": "jordan/desert.jpg",
+  "intro": "An industrial hub in central Jordan, close to the Azraq oasis and the eastern desert.",
+  "history": "Zarqa is a modern city, while nearby Azraq has served as a desert crossroads and oasis for centuries.",
+  "lat": 32.07,
+  "lng": 36.09,
+  "nearby": [
+   "amman",
+   "mafraq"
+  ],
+  "activities": [
+   {
+    "name": "Azraq wetland visit",
+    "duration": "2 hours",
+    "priceJOD": 5
+   }
+  ],
+  "itinerary": [
+   "Azraq Wetland Reserve",
+   "Desert-edge lunch"
+  ]
+ },
+ {
+  "id": "balqa",
+  "name": "Balqa",
+  "nameAr": "البلقاء",
+  "image": "jordan/dead-sea.jpg",
+  "intro": "Home to the Dead Sea shore and the golden-stone town of As-Salt.",
+  "history": "As-Salt grew as a trading town and still holds Ottoman-era heritage houses; the Dead Sea lies at Earth's lowest land elevation.",
+  "lat": 32.04,
+  "lng": 35.73,
+  "nearby": [
+   "amman",
+   "madaba",
+   "ajloun"
+  ],
+  "activities": [
+   {
+    "name": "Dead Sea float and mud",
+    "duration": "3 hours",
+    "priceJOD": 28
+   },
+   {
+    "name": "As-Salt heritage walk",
+    "duration": "3 hours",
+    "priceJOD": 14
+   }
+  ],
+  "itinerary": [
+   "As-Salt old town",
+   "Local lunch",
+   "Dead Sea sunset float"
+  ]
+ },
+ {
+  "id": "madaba",
+  "name": "Madaba",
+  "nameAr": "مادبا",
+  "image": "jordan/amman.jpg",
+  "intro": "The City of Mosaics, known for Byzantine floors and views toward Mount Nebo.",
+  "history": "Madaba's Church of St George holds a 6th-century mosaic map of the Holy Land.",
+  "lat": 31.72,
+  "lng": 35.79,
+  "nearby": [
+   "amman",
+   "balqa",
+   "karak"
+  ],
+  "activities": [
+   {
+    "name": "Mosaic trail",
+    "duration": "2 hours",
+    "priceJOD": 5
+   },
+   {
+    "name": "Mount Nebo viewpoint",
+    "duration": "2 hours",
+    "priceJOD": 5
+   }
+  ],
+  "itinerary": [
+   "Mosaic map at St George",
+   "Lunch in the old town",
+   "Mount Nebo viewpoint"
+  ]
+ },
+ {
+  "id": "jerash",
+  "name": "Jerash",
+  "nameAr": "جرش",
+  "image": "jordan/jerash.jpg",
+  "intro": "One of the best-preserved Roman provincial cities in the world.",
+  "history": "Gerasa flourished as a Decapolis city; its colonnaded street and oval plaza remain remarkably intact.",
+  "lat": 32.28,
+  "lng": 35.9,
+  "nearby": [
+   "ajloun",
+   "amman",
+   "irbid"
+  ],
+  "activities": [
+   {
+    "name": "Ruins guided tour",
+    "duration": "3 hours",
+    "priceJOD": 12
+   },
+   {
+    "name": "Roman chariot show",
+    "duration": "1 hour",
+    "priceJOD": 10
+   }
+  ],
+  "itinerary": [
+   "Hadrian's Arch and Hippodrome",
+   "Colonnaded street",
+   "Local lunch"
+  ]
+ },
+ {
+  "id": "ajloun",
+  "name": "Ajloun",
+  "nameAr": "عجلون",
+  "image": "jordan/desert.jpg",
+  "intro": "Pine-covered hills, nature reserve trails and a hilltop castle in the green north.",
+  "history": "Qal'at ar-Rabad was built in the 12th century to guard against Crusader threats and commands wide views.",
+  "lat": 32.33,
+  "lng": 35.75,
+  "nearby": [
+   "jerash",
+   "irbid",
+   "balqa"
+  ],
+  "activities": [
+   {
+    "name": "Ajloun Forest Reserve trail",
+    "duration": "4 hours",
+    "priceJOD": 16
+   },
+   {
+    "name": "Castle visit",
+    "duration": "1.5 hours",
+    "priceJOD": 3
+   }
+  ],
+  "itinerary": [
+   "Ajloun Castle",
+   "Forest reserve hike",
+   "Village lunch"
+  ]
+ },
+ {
+  "id": "mafraq",
+  "name": "Mafraq",
+  "nameAr": "المفرق",
+  "image": "jordan/desert.jpg",
+  "intro": "Gateway to the basalt-built Umm al-Jimal and the eastern desert.",
+  "history": "Umm al-Jimal is a Roman and Byzantine-era town built from black basalt.",
+  "lat": 32.34,
+  "lng": 36.21,
+  "nearby": [
+   "irbid",
+   "zarqa"
+  ],
+  "activities": [
+   {
+    "name": "Umm al-Jimal walk",
+    "duration": "2 hours",
+    "priceJOD": 3
+   }
+  ],
+  "itinerary": [
+   "Umm al-Jimal ruins",
+   "Desert-edge tea stop"
+  ]
+ },
+ {
+  "id": "karak",
+  "name": "Karak",
+  "nameAr": "الكرك",
+  "image": "jordan/amman-wide.jpg",
+  "intro": "Crusader fortress, King's Highway views and hearty mansaf.",
+  "history": "Karak Castle was among the largest Crusader castles in the region.",
+  "lat": 31.18,
+  "lng": 35.7,
+  "nearby": [
+   "tafilah",
+   "madaba"
+  ],
+  "activities": [
+   {
+    "name": "Karak Castle tour",
+    "duration": "2 hours",
+    "priceJOD": 3
+   }
+  ],
+  "itinerary": [
+   "Karak Castle",
+   "Mansaf lunch"
+  ]
+ },
+ {
+  "id": "tafilah",
+  "name": "Tafilah",
+  "nameAr": "الطفيلة",
+  "image": "jordan/desert.jpg",
+  "intro": "Home to Dana Biosphere Reserve and deep canyon trails.",
+  "history": "Dana is Jordan's largest nature reserve, with a stone village on the canyon rim.",
+  "lat": 30.84,
+  "lng": 35.6,
+  "nearby": [
+   "karak",
+   "maan"
+  ],
+  "activities": [
+   {
+    "name": "Dana trail hike",
+    "duration": "5 hours",
+    "priceJOD": 30
+   }
+  ],
+  "itinerary": [
+   "Dana Village",
+   "Wadi Dana hike"
+  ]
+ },
+ {
+  "id": "maan",
+  "name": "Ma'an",
+  "nameAr": "معان",
+  "image": "jordan/petra-hero.jpg",
+  "intro": "The governorate of Petra, the Nabataean rose-red city.",
+  "history": "Petra was the Nabataean capital, carved into sandstone cliffs and entered through the Siq.",
+  "lat": 30.19,
+  "lng": 35.73,
+  "nearby": [
+   "tafilah",
+   "aqaba"
+  ],
+  "activities": [
+   {
+    "name": "Petra full-day guided walk",
+    "duration": "Full day",
+    "priceJOD": 50
+   },
+   {
+    "name": "Petra by Night",
+    "duration": "2 hours",
+    "priceJOD": 17
+   }
+  ],
+  "itinerary": [
+   "Siq and Treasury",
+   "Royal Tombs and Monastery",
+   "Sunset viewpoint"
+  ]
+ },
+ {
+  "id": "aqaba",
+  "name": "Aqaba",
+  "nameAr": "العقبة",
+  "image": "jordan/wadi-rum-2.jpg",
+  "intro": "Jordan's Red Sea coast and the gateway to Wadi Rum.",
+  "history": "Aqaba has been a port since antiquity; Wadi Rum's red-sand valleys lie nearby.",
+  "lat": 29.53,
+  "lng": 35.0,
+  "nearby": [
+   "maan"
+  ],
+  "activities": [
+   {
+    "name": "Wadi Rum jeep tour",
+    "duration": "3 hours",
+    "priceJOD": 35
+   },
+   {
+    "name": "Red Sea snorkelling",
+    "duration": "3 hours",
+    "priceJOD": 32
+   }
+  ],
+  "itinerary": [
+   "Red Sea beach morning",
+   "Lunch by the port",
+   "Wadi Rum sunset"
+  ]
+ }
+]
